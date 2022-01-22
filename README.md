@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <p>
-     This is Caffine made by me ApolloPluto for the purpose of just having a normal alt client for Minecraft:Bedrock
+     This is Caffine made by me ApolloPluto for the purpose of just having a normal alt client for Minecraft Bedrock
   </p>
   <p>
     <b>Caffine</b> is a fork of Horion Client to make less of a hacked client for normal use on servers.
